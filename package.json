@@ -1,0 +1,20 @@
+{
+  "name": "meanclient",
+  "version": "0.1.0",
+  "description": "Get rid of the variance!",
+  "main": "mean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "varianceserver",
+    "proxy",
+    "hidden",
+    "obfuscation"
+  ],
+  "author": "Jim Chen",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser2": "^3.8.2"
+  }
+}
